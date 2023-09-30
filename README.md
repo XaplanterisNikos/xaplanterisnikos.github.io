@@ -1,5 +1,4 @@
-# Xaplanteris Nikos
-#### Android Developer
+# Android Developer
 
 ## Education
 - BSc in Computer Science
