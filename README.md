@@ -1,11 +1,18 @@
-# xaplanterisnikos.github.io
+# Xaplanteris Nikos
+### Android Developer
 
 # Android Projects
 
 ## Education
-Computer Science 
+BSc in Computer Science
 
-### Work Experience 
-- big impact project
+### Seminars
+Programming with JAVA  E-Learning University of Athens
+E-shop Development  E-Learning University of Athens
 
-- 
+## Android Projects
+- dvlpr_foxnks / (Δίπλωμα Χειριστών) – Android Playstore
+- dvlps_foxnks / (Database employee shifts – Cosco Company) – foxnks.blogspot.com
+
+
+  
