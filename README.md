@@ -1,18 +1,27 @@
 # Xaplanteris Nikos
-### Android Developer
-
-# Android Projects
+#### Android Developer
 
 ## Education
-BSc in Computer Science
+- BSc in Computer Science
+- Computer & Office Machine Technician
 
-### Seminars
-Programming with JAVA  E-Learning University of Athens
-E-shop Development  E-Learning University of Athens
+## Seminars
+- Programming with JAVA  E-Learning University of Athens
+- E-shop Development  E-Learning University of Athens
+
+## Skills
+- Android Development (Java, Kotlin)
+- Object-Oriented Programming (Java, Python)
+- Web Developing & Applications (PHP, HTML, CSS) & 
+- Databases (mySQL, mariaDB)
+- Mathematical & Theoretical Background, Problem Solving
+- Penetration Testing
+
 
 ## Android Projects
 - dvlpr_foxnks / (Δίπλωμα Χειριστών) – Android Playstore
 - dvlps_foxnks / (Database employee shifts – Cosco Company) – foxnks.blogspot.com
+
 
 
   
