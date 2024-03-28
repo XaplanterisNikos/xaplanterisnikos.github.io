@@ -1,4 +1,4 @@
-# Android Developer
+# Java Developer
 
 ## Education
 - BSc in Computer Science
