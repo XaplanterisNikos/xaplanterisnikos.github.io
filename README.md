@@ -5,6 +5,7 @@
 - Computer & Office Machine Technician
 
 ## Seminars
+- Coding Factory AUEB
 - Programming with JAVA  E-Learning University of Athens
 - E-shop Development  E-Learning University of Athens
 
