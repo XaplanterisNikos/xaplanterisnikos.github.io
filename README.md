@@ -4,13 +4,15 @@
 - BSc in Computer Science
 - Computer & Office Machine Technician
 
+## Bootcamp
+- Coding Factory Athens University of Economics and Business
+  
 ## Seminars
-- Coding Factory Athens University of Economics and Business 
 - Programming with JAVA  E-Learning University of Athens
 - E-shop Development  E-Learning University of Athens
 
-## Skills
-- Object-Oriented Programming (Java, Python, TS, C#)
+## Skills - Framework
+- Object-Oriented Programming (Java, Python, C#)
 - Back-End Development (spring, nodejs, Jakarta EE)
 - Front-End Development (HTML, Css, JS, Angular)
 - Android Development (Java)
